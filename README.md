@@ -14,4 +14,4 @@ Introduction to Machine Learning [2020_Fall]
   - ANN
 ---
 `note`
-> to preview .html file, add prefix: http://htmlpreview.github.io/? to the url.
+> to preview .html files, add prefix: http://htmlpreview.github.io/? to the url.
