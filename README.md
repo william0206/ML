@@ -1,7 +1,7 @@
 # ML
 > Introduction to Machine Learning `nctu_cs 2020_Fall`
 
-four simple course homework using `sklearn` and `keras` 
+Four simple course homework using `sklearn` and `keras`.
 ### hw1
 - Naïve Bayes
 ### hw2
