@@ -12,3 +12,6 @@ Introduction to Machine Learning [2020_Fall]
 - hw4
   - SVM
   - ANN
+---
+`note`
+> to preview .html file, add prefix: http://htmlpreview.github.io/? to the url.
